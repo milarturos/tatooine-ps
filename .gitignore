@@ -1,4 +1,6 @@
 .metadata/
 ProyectoRFT_logs/
-ProyectoRFT/*.class
 ProyectoRFT/.settings/
+ProyectoRFT/HU002/ESC001/CP001/*.class
+ProyectoRFT/HU002/ESC001/CP001/*.rftss
+ProyectoRFT/HU002/ESC001/CP001/*.testsuite
