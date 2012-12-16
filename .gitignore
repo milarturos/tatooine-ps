@@ -1,1 +1,4 @@
 .metadata/
+ProyectoRuby_logs/
+ProyectoRuby/*.class
+ProyectoRuby/.settings/
