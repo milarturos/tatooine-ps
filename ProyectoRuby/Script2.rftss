@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<com.ibm.rational.test.ft.visualscript:RFTScript xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.ibm.rational.test.ft.visualscript="http:///com/ibm/rational/test/ft/visualscript.ecore" name="Script2" package="" userName="meguiluz" date="16/12/2012" time="09:15:28" sinceDate="2012/12/16" hostName="WinNT Version 6.1  Build 7601 (S)" keywordSteps="">
-  <testElements xsi:type="com.ibm.rational.test.ft.visualscript:Comment" value="// PENDIENTE Insertar c&#xf3;digo aqu&#xed;&#xD;&#xA;" elementType="Comment"/>
-</com.ibm.rational.test.ft.visualscript:RFTScript>
